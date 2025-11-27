@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <rect width="100%" height="100%" fill="#111214" />
+  <g transform="translate(50,80)" fill="#d1d5db" font-family="Inter, sans-serif">
+    <text x="0" y="0" font-size="40">Design / Artwork</text>
+    <text x="0" y="44" font-size="18" fill="#9aa4ad">Branding, posters and visual materials — preview artwork</text>
+  </g>
+</svg>
